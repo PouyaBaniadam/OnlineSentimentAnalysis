@@ -1,0 +1,5 @@
+Timestamp,Model,Batch_Size,First_ID,Last_ID,Reason
+2026-06-01 11:12:58,gpt-4.1,50,row_50,row_99,Failed after max retries
+2026-06-01 11:17:01,gpt-4.1-mini,50,row_50,row_99,Failed after max retries
+2026-06-01 11:35:45,gpt-4o-mini,50,row_50,row_99,Failed after max retries
+2026-06-01 11:36:14,gpt-4o,50,row_50,row_99,Failed after max retries

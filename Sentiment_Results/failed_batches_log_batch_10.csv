@@ -1,0 +1,23 @@
+Timestamp,Model,Batch_Size,First_ID,Last_ID,Reason
+2026-04-26 09:34:32,Meta-Llama-3.1-405B-Instruct,10,row_0,row_9,Max retries
+2026-04-26 10:21:53,Meta-Llama-3.1-405B-Instruct,10,row_0,row_9,Failed after max retries
+2026-04-26 10:30:26,gpt-4.1,10,row_50,row_59,Failed after max retries
+2026-04-26 10:30:47,gpt-4.1-mini,10,row_50,row_59,Failed after max retries
+2026-04-26 10:41:30,gpt-4o-mini,10,row_200,row_209,Failed after max retries
+2026-04-26 10:42:14,Ministral-3B,10,row_200,row_209,Failed after max retries
+2026-04-26 10:51:45,gpt-4.1,10,row_50,row_59,Failed after max retries
+2026-04-26 10:52:08,gpt-4.1-mini,10,row_50,row_59,Failed after max retries
+2026-04-26 10:52:45,gpt-4o-mini,10,row_200,row_209,Failed after max retries
+2026-04-26 10:53:07,Ministral-3B,10,row_200,row_209,Failed after max retries
+2026-04-26 10:58:19,gpt-4.1,10,row_50,row_59,Failed after max retries
+2026-04-26 10:58:40,gpt-4.1-mini,10,row_50,row_59,Failed after max retries
+2026-04-26 10:59:10,gpt-4o-mini,10,row_200,row_209,Failed after max retries
+2026-04-26 10:59:33,Ministral-3B,10,row_200,row_209,Failed after max retries
+2026-04-26 11:22:26,gpt-4.1,10,row_50,row_59,Failed after max retries
+2026-04-26 11:22:46,gpt-4.1-mini,10,row_50,row_59,Failed after max retries
+2026-04-26 11:23:21,gpt-4o-mini,10,row_200,row_209,Failed after max retries
+2026-04-26 11:23:43,Ministral-3B,10,row_200,row_209,Failed after max retries
+2026-04-26 11:36:05,gpt-4.1,10,row_50,row_59,Failed after max retries
+2026-04-26 11:36:27,gpt-4.1-mini,10,row_50,row_59,Failed after max retries
+2026-04-26 11:37:00,gpt-4o-mini,10,row_200,row_209,Failed after max retries
+2026-04-26 11:37:22,Ministral-3B,10,row_200,row_209,Failed after max retries

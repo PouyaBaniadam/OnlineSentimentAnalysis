@@ -1,0 +1,16 @@
+Timestamp,Model,Batch_Size,First_ID,Last_ID,Reason
+2026-04-26 08:38:45,Meta-Llama-3.1-405B-Instruct,20,row_0,row_19,Max retries
+2026-04-26 08:40:32,Meta-Llama-3.1-405B-Instruct,20,row_20,row_39,Max retries
+2026-04-26 08:42:19,Meta-Llama-3.1-405B-Instruct,20,row_40,row_59,Max retries
+2026-04-26 08:44:18,Meta-Llama-3.1-405B-Instruct,20,row_60,row_79,Max retries
+2026-04-26 08:46:05,Meta-Llama-3.1-405B-Instruct,20,row_80,row_99,Max retries
+2026-04-26 08:47:47,Meta-Llama-3.1-405B-Instruct,20,row_100,row_119,Max retries
+2026-04-26 08:49:39,Meta-Llama-3.1-405B-Instruct,20,row_120,row_139,Max retries
+2026-04-26 08:51:37,Meta-Llama-3.1-405B-Instruct,20,row_140,row_159,Max retries
+2026-04-26 08:53:29,Meta-Llama-3.1-405B-Instruct,20,row_160,row_179,Max retries
+2026-04-26 08:55:21,Meta-Llama-3.1-405B-Instruct,20,row_180,row_199,Max retries
+2026-04-26 08:57:13,Meta-Llama-3.1-405B-Instruct,20,row_200,row_219,Max retries
+2026-04-26 08:59:15,Meta-Llama-3.1-405B-Instruct,20,row_220,row_239,Max retries
+2026-04-26 09:00:51,Meta-Llama-3.1-405B-Instruct,20,row_240,row_259,Max retries
+2026-04-26 09:02:59,Meta-Llama-3.1-405B-Instruct,20,row_260,row_279,Max retries
+2026-04-26 09:04:46,Meta-Llama-3.1-405B-Instruct,20,row_280,row_299,Max retries

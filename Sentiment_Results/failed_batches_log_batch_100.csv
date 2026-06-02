@@ -1,0 +1,4 @@
+Timestamp,Model,Batch_Size,First_ID,Last_ID,Reason
+2026-06-01 11:57:21,Llama-3.3-70B-Instruct,100,row_0,row_99,Failed after max retries
+2026-06-02 08:13:41,grok-3-mini,100,row_0,row_99,Failed after max retries
+2026-06-02 08:14:05,grok-3-mini,100,row_100,row_199,Failed after max retries
